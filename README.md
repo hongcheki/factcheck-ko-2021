@@ -37,7 +37,7 @@ Download the data for training [here](https://drive.google.com/drive/folders/1cY
     python dr/document_retrieval.py --parallel
     ```
     This will create `dr/dr_results.json`. **Warning!! It takes a long time.**\
-    _(Our `dr_results.json` will be uploaded.)_
+    _(Our `dr_results.json` is [here](https://drive.google.com/file/d/1QWrYORC3udpgOQ5ZmXzg7fAcHcR3kM7H/view?usp=sharing))_
 
 2. Evaluate DR
     ```
@@ -60,7 +60,7 @@ Download the data for training [here](https://drive.google.com/drive/folders/1cY
 
     \
     **Warning!! It takes more than 70 hours with 50000 claims.**\
-    _(Our `wiki_docs.json` will be uploaded.)_
+    _(Our `wiki_docs.json` is [here](https://drive.google.com/file/d/1q4cYyLEPGF84-F3ihci9rqXG7eJU9SlL/view?usp=sharing))_
 
 2. Training SS model
     ```
@@ -82,7 +82,7 @@ Download the data for training [here](https://drive.google.com/drive/folders/1cY
     python ss/get_nei_ss_results.py
     ```
     This will create `./ss/nei_ss_results.json`.\
-    _(Our `nei_ss_results.json` will be uploaded.)_
+    _(Our `nei_ss_results.json` is [here](https://drive.google.com/file/d/1t9MkhoqNhRCStBKSIHG1a4rbLYg7f4kG/view?usp=sharing))_
 
 2. Training RTE model
     ```
