@@ -72,7 +72,7 @@ Download the data for training [here](https://drive.google.com/drive/folders/1cY
     ```
     python ss/train_ss.py --evaluate --test
     ```
-    Our result: 85.80% (recall with top5 sentence, for test data).
+    Our result: 49.29% (recall with top5 sentence, for test data).
 
 ### Recognizing Textual Entailment
 
